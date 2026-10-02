@@ -48,14 +48,6 @@
         "priority": 7
     },
     {
-        "id": "wujin",
-        "name": "无尽资源",
-        "baseUrl": "https://api.wujinapi.com/api.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 8
-    },
-    {
         "id": "sanliuling",
         "name": "360资源",
         "baseUrl": "https://360zy.com/api.php/provide/vod",
@@ -240,14 +232,6 @@
         "priority": 37
     },
     {
-        "id": "wujincc",
-        "name": "无尽CC",
-        "baseUrl": "https://api.wujinapi.cc/api.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 38
-    },
-    {
         "id": "yaya",
         "name": "丫丫点播",
         "baseUrl": "https://cj.yayazy.net/api.php/provide/vod",
@@ -264,28 +248,12 @@
         "priority": 40
     },
     {
-        "id": "wujinnet",
-        "name": "无尽NET",
-        "baseUrl": "https://api.wujinapi.net/api.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 41
-    },
-    {
         "id": "wangwangapi",
         "name": "旺旺API",
         "baseUrl": "https://api.wwzy.tv/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
         "priority": 42
-    },
-    {
-        "id": "zuidame",
-        "name": "最大点播",
-        "baseUrl": "http://zuidazy.me/api.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 43
     },
     {
         "id": "yinghua",
