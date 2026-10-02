@@ -16,14 +16,6 @@
         "priority": 2
     },
     {
-        "id": "baofeng",
-        "name": "暴风资源",
-        "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 3
-    },
-    {
         "id": "tianya",
         "name": "天涯资源",
         "baseUrl": "https://tyyszy.com/api.php/provide/vod",
@@ -62,14 +54,6 @@
         "group": "normal",
         "enabled": true,
         "priority": 8
-    },
-    {
-        "id": "guangsu",
-        "name": "光速资源",
-        "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 9
     },
     {
         "id": "youku",
@@ -134,14 +118,6 @@
         "group": "normal",
         "enabled": true,
         "priority": 17
-    },
-    {
-        "id": "xinlang2",
-        "name": "新浪HTTPS",
-        "baseUrl": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 18
     },
     {
         "id": "lezi2",
