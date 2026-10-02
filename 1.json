@@ -176,14 +176,6 @@
         "priority": 25
     },
     {
-        "id": "niuniu",
-        "name": "牛牛点播",
-        "baseUrl": "https://api.niuniuzy.me/api.php/provide/vod",
-        "group": "normal",
-        "enabled": true,
-        "priority": 26
-    },
-    {
         "id": "suoni",
         "name": "索尼资源",
         "baseUrl": "https://suoniapi.com/api.php/provide/vod",
